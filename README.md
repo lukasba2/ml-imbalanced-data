@@ -1,4 +1,4 @@
-# Undersampled Majority Class Ensemble for Data Sampling Methods Comparison
+# Undersampled Majority Class Ensemble (UMCE) for Data Sampling Methods Comparison
 
 ## Overview
 
